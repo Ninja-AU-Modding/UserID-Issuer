@@ -3,7 +3,10 @@
   justify-content: flex-start;
 ">
   <h1>UserID Issuer</h1>
-  <img src="https://raw.githubusercontent.com/Ninja-AU-Modding/UserID-Issuer/refs/heads/main/Logo.png?token=GHSAT0AAAAAADPHPLPWKWDGOKTS7A3IIFQI2MVPILQ" />
+  <img
+    src="https://raw.githubusercontent.com/Ninja-AU-Modding/UserID-Issuer/refs/heads/main/Logo.png?token=GHSAT0AAAAAADPHPLPWKWDGOKTS7A3IIFQI2MVPILQ"
+    width="50%"
+  />
 </div>
 
 > [!WARNING]
