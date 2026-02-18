@@ -1,6 +1,6 @@
 <div style="
   display: flex;
-  justify-content: center;
+  align-items: center;
 ">
   <h1>UserID Issuer</h1>
   <img
