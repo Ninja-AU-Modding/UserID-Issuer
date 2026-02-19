@@ -3,7 +3,7 @@
    <summary>
       <h1 align="center">
         UserID Issuer &nbsp;
-        <img src="https://raw.githubusercontent.com/Ninja-AU-Modding/UserID-Issuer/refs/heads/main/Logo.png?token=GHSAT0AAAAAADPHPLPX7QHR3FNEQVBIK7JI2MVP2QA" width="5%" alt="Logo" />
+        <img src="https://raw.githubusercontent.com/Ninja-AU-Modding/UserID-Issuer/refs/heads/main/Logo.png" width="5%" alt="Logo" />
       </h1>
    </summary>
   </ul>
