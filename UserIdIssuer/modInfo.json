@@ -1,0 +1,19 @@
+{
+  "Name": "User ID Issuer",
+  "Description": "This mod mainly exists to ensure compatability across the places Among Us is availible (Epic, Steam, Itch, etc)\n\nThis mod generates every user a unique UserID which can then be accessed by other mods.\n\nNotable mods this is used in: AUSummary, Goober's TOU:M Ranked",
+    "Tags": [
+      "id",
+      "compatability"
+    ],
+  "Icon":  "UserIdIssuer.icon.png",
+  "License": "GPLv3",
+  "Authors": [
+    "Goober",
+    "Ninja"
+  ],
+    "Links": {
+        "Source": "https://github.com/Ninja-AU-Modding/UserID-Issuer",
+        "Discord": "https://discord.gg/JpXFCZQWnc",
+        "Ninja AU Modding": "https://github.com/Ninja-AU-Modding/"
+    }
+}
