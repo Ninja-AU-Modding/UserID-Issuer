@@ -16,7 +16,6 @@ This mod mainly exists to ensure compatability across the places Among Us is ava
 
 This mod generates every user a unique UserID which can then be accessed by other mods.
 
-> [!NOTE]
 > Notable mods this is used in: AUSummary, Goober's TOU:M Ranked
 
 ## Code example (if you're using this in your own mod)
