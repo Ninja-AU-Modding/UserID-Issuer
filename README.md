@@ -2,7 +2,7 @@
   <ul align="center" style="list-style: none">
    <summary>
       <h1 align="center">
-        UserID Issuer &nbsp;
+        UserID Issuer
         <img src="https://raw.githubusercontent.com/Ninja-AU-Modding/UserID-Issuer/refs/heads/main/UserIdIssuer/icon.png" width="5%" alt="Logo" />
       </h1>
    </summary>
